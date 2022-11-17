@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Mon%20Drive/MlOpsProject/churn_pred/src/models/mlruns/215166899550038237/176517cffb414a01b820a2d09788875e/artifacts
+end_time: 1668706485924
+entry_point_name: ''
+experiment_id: '215166899550038237'
+lifecycle_stage: active
+run_id: 176517cffb414a01b820a2d09788875e
+run_name: Logistic Regression
+run_uuid: 176517cffb414a01b820a2d09788875e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668706484388
+status: 3
+tags: []
+user_id: Lulu

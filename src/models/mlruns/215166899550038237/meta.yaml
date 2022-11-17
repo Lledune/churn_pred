@@ -1,0 +1,6 @@
+artifact_location: file:///G:/Mon%20Drive/MlOpsProject/churn_pred/src/models/mlruns/215166899550038237
+creation_time: 1668691042045
+experiment_id: '215166899550038237'
+last_update_time: 1668691042045
+lifecycle_stage: active
+name: nb_churn
